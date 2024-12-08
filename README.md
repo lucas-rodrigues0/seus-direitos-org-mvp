@@ -30,14 +30,15 @@ Para ter uma análise inicial do projeto a construção de um MVP buscar obter c
 
 ### Lean Inception
 
-Link do Miro para a visualização do board criado na lean inception para o projeto
+Para acessar o board no Miro é necessário o login em sua conta do Miro.  
+Link do Miro somente para a visualização do board criado na lean inception para o projeto
 - [Link board no Miro](https://miro.com/welcomeonboard/bVpQRGpYMnM4STF4dFV4SWlBOFV6NE8yL3Q5dEEzNXd4U3hVQnFxVkxHM1lQUVR5T2NSbmIvOXh0c1d3R3kvbXdMc21sOE1QTU8wWlFyeFhCUkZETXVvQlMrOWNPNjA4WXRuZG5OQVNVSFF3WUhVb3RwV1Q2dXNFeEN3Zld5RmUhZQ==?share_link_id=11421931979)
 
 
 ### Wireframe
 
 No folder `wireframes` encontram-se todas as telas desenhadas tanto em PDF quanto em PNG. Ou é possível visualizar no próprio Figma com o link a seguir.  
-Link do Figma para a visualização dos frames criado para o projeto
+Link do Figma somente para a visualização dos frames e componentes criado para o projeto
 - [Link para projeto no Figma](https://www.figma.com/design/hBfLgXW0iCjqmkDpHIPZxq/SeusDireitos.org?node-id=0-1&t=5VtVaUrV10Ev0ryq-1)
 
 
