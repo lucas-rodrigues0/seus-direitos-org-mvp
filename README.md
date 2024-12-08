@@ -1,6 +1,9 @@
 # SEUS DIREITOS
 ## organização para difusão de conhecimento aos seus direitos
 
+Projeto de MVP realizado para o curso de Pós graduação em Engenharia de Software da PUC-Rio - Pontifícia Universidade Católica do Rio de Janeiro.  
+Módulo: Gestão Ágil de Projetos e Produto
+
 
 ### Contexto:
 
@@ -28,19 +31,17 @@ Para ter uma análise inicial do projeto a construção de um MVP buscar obter c
 ### Lean Inception
 
 Link do Miro para a visualização do board criado na lean inception para o projeto
-
 - [Link board no Miro](https://miro.com/welcomeonboard/bVpQRGpYMnM4STF4dFV4SWlBOFV6NE8yL3Q5dEEzNXd4U3hVQnFxVkxHM1lQUVR5T2NSbmIvOXh0c1d3R3kvbXdMc21sOE1QTU8wWlFyeFhCUkZETXVvQlMrOWNPNjA4WXRuZG5OQVNVSFF3WUhVb3RwV1Q2dXNFeEN3Zld5RmUhZQ==?share_link_id=11421931979)
 
 
 ### Wireframe
 
-No folder `wireframes` encontra-se todas as telas desenhadas tanto em PDF quanto em PNG. Ou é possivel visualizar no próprio Figma com o link a seguir.  
+No folder `wireframes` encontram-se todas as telas desenhadas tanto em PDF quanto em PNG. Ou é possível visualizar no próprio Figma com o link a seguir.  
 Link do Figma para a visualização dos frames criado para o projeto
-
 - [Link para projeto no Figma](https://www.figma.com/design/hBfLgXW0iCjqmkDpHIPZxq/SeusDireitos.org?node-id=0-1&t=5VtVaUrV10Ev0ryq-1)
 
 
 ### Backlog
 
-Os arquivos `product-backlog.pdf` e `sprint-backlog.pdf` contem a captura de tela do projeto no Jira. O product-backlog contem todas as historias detalhadas, inclusive as historias da sprint 1, assim como os quadros do backlog e a linha do tempo.  
+Os arquivos `product-backlog.pdf` e `sprint-backlog.pdf` contém a captura de tela do projeto no Jira. O product-backlog contém todas as histórias detalhadas, inclusive as histórias da sprint 1, assim como os quadros do backlog e a linha do tempo.  
 No folder `backlog_jira` encontra-se todas as imagens da captura de tela separadamente, e pode ter uma qualidade um pouco melhor que os arquivos pdf.
