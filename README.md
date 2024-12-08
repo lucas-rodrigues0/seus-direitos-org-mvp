@@ -30,7 +30,7 @@ Para ter uma análise inicial do projeto a construção de um MVP buscar obter c
 
 ### Lean Inception
 
-Para acessar o board no Miro é necessário o login em sua conta do Miro. 
+Para acessar o board no Miro é necessário o login em sua conta do Miro.  
 Link do Miro somente para a visualização do board criado na lean inception para o projeto
 - [Link board no Miro](https://miro.com/welcomeonboard/bVpQRGpYMnM4STF4dFV4SWlBOFV6NE8yL3Q5dEEzNXd4U3hVQnFxVkxHM1lQUVR5T2NSbmIvOXh0c1d3R3kvbXdMc21sOE1QTU8wWlFyeFhCUkZETXVvQlMrOWNPNjA4WXRuZG5OQVNVSFF3WUhVb3RwV1Q2dXNFeEN3Zld5RmUhZQ==?share_link_id=11421931979)
 
